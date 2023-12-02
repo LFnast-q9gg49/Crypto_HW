@@ -28,8 +28,6 @@ int main(int argc, char **argv){
             cout << endl;
         }
     }
-    // we can see the C has the highest possibility, so the "C" can be repleced by "e"
-    // the "B", "Q", "R", "T", "V", they have very low possibility, so they may be one of the "v,k,j,x,q,z"
     cout << endl;
     exit(0);
 }
